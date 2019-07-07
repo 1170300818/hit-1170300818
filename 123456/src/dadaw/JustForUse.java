@@ -16,5 +16,6 @@ public class JustForUse {
         iter.remove();
       }
     }
+    System.out.println("3 has removed");
   }
 }
