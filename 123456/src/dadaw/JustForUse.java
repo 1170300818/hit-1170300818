@@ -3,7 +3,9 @@ package dadaw;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
-
+/**
+*this class is designed for iterator learning.
+*/
 public class JustForUse {
   public static void main(String[] args) {
     List<Integer> temp = new LinkedList<>();
